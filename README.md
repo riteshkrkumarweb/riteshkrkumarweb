@@ -1,7 +1,3 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ritesh!<br><br>🚀 Self-taught AI & Robotics Enthusiast<br><br>🤖 Exploring Artificial Intelligence, Machine Learning & Robotics.<br><br>🧠 Deep Learning | PyTorch | NLP | LLMs<br><br>⚡ Generative AI | RAG | AI Agents | Agentic AI<br><br>🐍 Python | JavaScript | FastAPI | Docker<br><br>🎯 Building intelligent systems and exploring emerging technologies.<br><br>💡 **Learn. Build. Innovate. Repeat.** 🚀
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byte_dictator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkumarweb) 
 
