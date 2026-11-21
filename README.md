@@ -11,10 +11,6 @@
 ## 🏆 Achievements
 🚀 Keep building. Keep contributing. Keep growing.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 ![Profile Views](https://komarev.com/ghpvc/?username=riteshkrkumarweb&color=blueviolet&style=flat-square)
 
 ## 🐍 Contribution Graph
